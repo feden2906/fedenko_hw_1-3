@@ -1,0 +1,17 @@
+.yellow {
+    background-color: goldenrod;
+    padding: 15px;
+}
+
+.blue {
+    background-color: dodgerblue;
+    padding: 15px;
+}
+
+h3 {
+    margin: 10px;
+}
+
+.center {
+    text-align: center;
+}
